@@ -1,3 +1,3 @@
 # MyApp
 
-#teste de déploiment application react
+Teste de  déploiement d’une application web React. Cette application est développée en utilisant React comme bibliothèque JavaScript de base et elle sera déployée sur un serveur web à distance. Le test vérifiera que l’application peut être déployée avec succès et qu’elle est accessible depuis une variété de navigateurs web. Nous évaluerons également les performances de l’application pour nous assurer qu’elle est suffisamment rapide et qu’elle répond rapidement aux demandes des utilisateurs. Enfin, nous testerons les fonctionnalités de l’application pour nous assurer qu’elles fonctionnent correctement et qu’il n’y a pas d’erreurs ou de bugs.
